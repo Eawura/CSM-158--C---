@@ -14,7 +14,7 @@ int main() {
     cin >> departmentID;
     cout << "Enter your age: ";
     cin >> age;
-    cout << "Enter your grade (A, B, C, D, or F): ";
+    cout << "Enter your grade (A, B, C, D, E, or F): ";
     cin >> grade;
     cout << "Enter your gender (M for male, F for female): ";
     cin >> gender;
